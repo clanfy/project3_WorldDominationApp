@@ -10,9 +10,11 @@ This is a group project undertaken during week 13 of the 16 week [CodeClan](http
 
 **K**ate Manson (https://github.com/katemanson)
 
-We created our own brief loosely based on the CodeClan suggested ones.
+-
 
-Our Brief / MVP was -
+###Brief / MVP
+
+We created our own brief loosely based on the CodeClan suggested ones -
 
 - Multiplayer game based around the countries of the world map
 - Players should be able to conquer countries by a selecting country and guessing the population
